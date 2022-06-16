@@ -11,19 +11,16 @@ Var
    senha, operacao: real;
 
 Inicio
-     nome <- "Estefany"
-     pasword <- "Paylivre"
-     
-
-        escreval("Informe o seu login: ")
+      escreval("Informe o seu login: ")
         leia(login)
         escreval("Informe a sua senha: ")
         leia(senha)
-        se(login = nome) e (pasword = senha) entao
-          escreval("Bem-Vindo!")
-       senao
-          escreval("Tente novamente!")
-        fimse
+        
+        enquanto(login==Marcos && senha==paylivre) faca
+        escreva("Tente novamente")
+    fimenquanto
+    escreval("Boas vindas!")
+Fimalgoritmo 
 
 
 

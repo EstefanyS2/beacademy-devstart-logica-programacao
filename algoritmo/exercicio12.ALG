@@ -1,13 +1,16 @@
-Algoritmo "tabuada"
-     //crie um programa que receba do usuario um numero e apresenta a tabuada deste
+Algoritmo "Multiplo2"
+    //crie um programa que apresenta os multiplos de dois entre 0 e 100
 Var
-    numero, j, multiplicacao: inteiro;
+    j: inteiro;
+
 Início
-    escreval("digite um numero: ")
-    leia(numero)
-    para j de 1 a 10 faca
-     escreval("tabuada", j)
-     multiplicacao <- numero * j
-     escreval("O valor da multiplicacao: ", multiplicacao)
-     fimpara
+
+
+      escreval("Múltiplo de 2")
+      para j de 1 ate 100 faca
+      se(j%2) = 0 entao
+      escreval(j)
+      fim de semana
+       fimpara
+
 Fimalgoritmo
