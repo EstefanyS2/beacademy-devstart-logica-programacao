@@ -12,9 +12,9 @@ Início
    escreva("Qual o valor de deposito?: ")
    leia(depósito)
    
-    escreval("Valor inicial na conta: ", saldo_atual, "R$") //2500
-    escreval("Dinheiro depositado: ", deposito, "R$") //4000R$
-    escreva("Saldo_atual: ",saldo_atual + deposito) //6500R$
+    escreval("Valor inicial na conta: ", saldo_atual, "R$")
+    escreval("Dinheiro depositado: ", deposito, "R$")
+    escreva("Saldo_atual: ",saldo_atual + deposito) 
 
    escreva
 Fimalgoritmo
