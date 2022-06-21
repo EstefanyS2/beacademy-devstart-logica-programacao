@@ -1,6 +1,8 @@
-# beacademy-devstart-logica-programacao
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADo&color=GREEN&style=for-the-badge"/>
+</p>
 
-
+## 
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio01.ALG)
 
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio02.ALG)
