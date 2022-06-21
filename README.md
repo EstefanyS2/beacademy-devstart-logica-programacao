@@ -1,4 +1,4 @@
 # beacademy-devstart-logica-programacao
 
 
-[! exercicio] ()
+[!exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio01.ALG)
