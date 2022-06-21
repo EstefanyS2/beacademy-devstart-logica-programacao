@@ -16,3 +16,25 @@
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio07.ALG)
 
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio07.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio09.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio10.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio11.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio12.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio13.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio15.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio16.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio18.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio20.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio22.ALG)
+
+[exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio23.ALG)
