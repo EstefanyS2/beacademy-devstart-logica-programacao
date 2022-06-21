@@ -2,11 +2,7 @@
   <img src="https://www.beacademy.com.br/wp-content/uploads/2019/11/Logo-Topo.png"/>
   </P>
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADo&color=GREEN&style=for-the-badge"/>
-</p>
-
-## 
+## Links para os exercicios.
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio01.ALG)
 
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio02.ALG)
@@ -44,3 +40,7 @@
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio22.ALG)
 
 [exercicio](https://github.com/EstefanyS2/beacademy-devstart-logica-programacao/blob/master/algoritmo/exercicio23.ALG)
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADo&color=GREEN&style=for-the-badge"/>
+</p>
